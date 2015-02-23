@@ -1,0 +1,9 @@
+Brett Carter
+email: brett.carter@wsu.edu
+
+CS351 - Databases
+Spring 2014
+Java/SQL database program 2
+
+Description:
+	This project takes an existing SQL database and uses a java program to navigate and retrieve information from the database using SQL queries. It will also allow the adding of information to the database. This will all be done using user input from a command line to navigate the different menues using displayed keywords.
